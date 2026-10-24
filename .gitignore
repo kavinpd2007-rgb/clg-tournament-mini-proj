@@ -1,0 +1,14 @@
+﻿.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+logs/*.log
+!logs/.gitkeep
+.app_state/
+
+docs/
+work/
+.app_state/
